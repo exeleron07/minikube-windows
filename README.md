@@ -32,13 +32,54 @@
 
 Для ручной установки Minikube в Windows, загрузите minikube-windows-amd64 , переименуйте его в minikube.exe И добавьте его в директорию исполняемых файлов.
 
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/3.png" alt="Header">
+</p>
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/4.png" alt="Header">
+</p>
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/5.png" alt="Header">
+</p>
 
+Чтобы программка видела наши команды, в среду добавляем наш путь к папке кибернетесу
 
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/6.png" alt="Header">
+</p>
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/7.png" alt="Header">
+</p>
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/8.png" alt="Header">
+</p>
 
+Теперь открываю VirtualBox и запускаю миникуб
 
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/9.png" alt="Header">
+</p>
 
+Конфигурационный файл кубера
 
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/10.png" alt="Header">
+</p>
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/11.png" alt="Header">
+</p>
 
+Проверка статуса, что всё нормально работает
 
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/12.png" alt="Header">
+</p>
 
+Можно задать определённые параметры машины
+
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/5bfafa9ade7208b668c6afbb4ddffeb21abd1695/img/13.png" alt="Header">
+</p>
+
+Можно подключиться через SSH
 
