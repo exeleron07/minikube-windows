@@ -22,3 +22,23 @@
 - `kubectl get nodes` - Показать все Серверы K8s Cluster'a
 
 ---
+
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/9e3a42060580da33304ac284d9a9b54fbea5823d/img/1.png" alt="Header">
+</p>
+<p align="center">
+  <img src="https://github.com/exeleron07/minikube-windows/blob/9e3a42060580da33304ac284d9a9b54fbea5823d/img/2.png" alt="Header">
+</p>
+
+Для ручной установки Minikube в Windows, загрузите minikube-windows-amd64 , переименуйте его в minikube.exe И добавьте его в директорию исполняемых файлов.
+
+
+
+
+
+
+
+
+
+
+
