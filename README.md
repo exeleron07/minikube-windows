@@ -1,6 +1,11 @@
 # Kubernetes на Windows
 
-В этом проекте демонстрируется работа поднятия кластера kubernetes. Нам потребуется установить три приложения: 1) VirtualBox - https://www.virtualbox.org/  2) Kubectl - https://kubernetes.io/docs/tasks/tools/install-kubectl/   3) Minicube - https://kubernetes.io/docs/tasks/tools/install-minikube/    VirtualBox - нужен для создания виртуального сервера на вашем компьютере, где будет создан K8s Cluster. Kubectl - для управления K8s кластером.
+В этом проекте демонстрируется работа поднятия кластера kubernetes. 
+Нам потребуется установить три приложения: 
+<h3>1) VirtualBox - https://www.virtualbox.org/</h3> 
+<h3>2) Kubectl - https://kubernetes.io/docs/tasks/tools/install-kubectl/</h3>    
+<h3>3) Minicube - https://kubernetes.io/docs/tasks/tools/install-minikube/</h3>     
+VirtualBox - нужен для создания виртуального сервера на вашем компьютере, где будет создан K8s Cluster. Kubectl - для управления K8s кластером.</h3> 
 ---
 
 ## Основные команды Kubernetes
